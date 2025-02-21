@@ -5,6 +5,6 @@ I'm a **Master of Science in Computer Science** student at **EPITA**, majoring i
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthur-guelennoc/)
 - 📧 Email: aguelennoc@gmail.com
-- 🌐 [Website/Portfolio] 
+- 🌐 [Portfolio](https://arthurguelennoc.com/)
 
 Let's build something awesome together! 🚀
