@@ -1,6 +1,6 @@
 ### Hullo there, I'm Arthur! 👋
 
-I'm a **Master of Science in Computer Science** student at **EPITA**, majoring in **AI/ML** and specializing in **Natural Language Processing** | Curious, Ambitious and Adaptive | Passionate about AI and robotics- especially when it comes to space exploration!
+I'm a **Master of Science in Computer Science** student at **EPITA**, majoring in **AI/ML** and specializing in **Natural Language Processing** | Passionate about AI and robotics- especially when it comes to space exploration!
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthur-guelennoc/)
