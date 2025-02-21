@@ -7,4 +7,4 @@ I'm a **Master of Science in Computer Science** student at **EPITA**, majoring i
 - 📧 Email: aguelennoc@gmail.com
 - 🌐 [Portfolio](https://arthurguelennoc.com/)
 
-Let's build something awesome together! 🚀
+Let's build something awesome together 🚀
