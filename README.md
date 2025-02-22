@@ -11,16 +11,15 @@ I'm a **Master of Science in Computer Science** student at **EPITA**, majoring i
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
   ![Numpy](https://img.shields.io/badge/-Numpy-EE4C2C?&logo=Numpy&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?&logo=Scikit-Learn&logoColor=white)
 
 </div>
 
 ### 📫 Connect with Me
 <div align="left">
 
-  [![Email](https://img.shields.io/badge/Email-aguelennoc@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aguelennoc@gmail.com)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-guelennoc.com-brightgreen?style=for-the-badge)](https://www.guelennoc.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurguelennoc-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-guelennoc)  
+  [![Email](https://img.shields.io/badge/Email-aguelennoc@gmail.com-C96868?style=for-the-badge&logo=gmail)](mailto:aguelennoc@gmail.com)  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-guelennoc.com-FADFA1?style=for-the-badge)](https://www.guelennoc.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurguelennoc-7EACB5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-guelennoc)  
 
 </div>
 
