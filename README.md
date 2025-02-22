@@ -18,9 +18,9 @@ I'm a **Master of Science in Computer Science** student at **EPITA**, majoring i
 
 <div align="left">
   
-  [![Email](https://img.shields.io/badge/Email-aguelennoc@gmail.com-C96868?style=for-the-badge&logo=gmail)](mailto:aguelennoc@gmail.com)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-guelennoc.com-FADFA1?style=for-the-badge)](https://www.guelennoc.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurguelennoc-7EACB5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-guelennoc)  
+  [![Email](https://img.shields.io/badge/Email-aguelennoc@gmail.com-B8001F?style=for-the-badge)](mailto:aguelennoc@gmail.com)  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-guelennoc.com-FCFAEE?style=for-the-badge)](https://www.guelennoc.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurguelennoc-507687?style=for-the-badge)](https://www.linkedin.com/in/arthur-guelennoc)  
   
 </div>
 
