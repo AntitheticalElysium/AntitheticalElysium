@@ -2,6 +2,19 @@
 
 I'm a **Master of Science in Computer Science** student at **EPITA**, majoring in **AI/ML** and specializing in **Natural Language Processing** | Passionate about AI and robotics- especially in the field of space exploration!
 
+## 🔧 Languages
+
+<div align="left">
+  
+![Python](https://img.shields.io/badge/-Python-1a3b3b?&logo=Python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-f89a36?&logo=C&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-f8c039?&logo=C%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-ee4c2c?&logo=Csharp&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4d77cf?&logo=MySQL&logoColor=white)  
+  
+</div>
+
 ## 📚 Libraries and Frameworks
 
 <div align="left">
