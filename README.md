@@ -5,13 +5,13 @@ I'm a **Master of Science in Computer Science** student at **EPITA**, majoring i
 ## 🔧 Languages
 
 <div align="left">
-  
-  ![Python](https://img.shields.io/badge/-Python-1a3b3b?&logo=Python&logoColor=white)  
-  ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)  
-  ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)  
+
+![Python](https://img.shields.io/badge/-Python-1a3b3b?&logo=Python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)  
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)  
+![SQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)  
   
 </div>
 
