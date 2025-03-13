@@ -31,5 +31,3 @@ I'm a **Master of Science in Computer Science** student at **EPITA**, majoring i
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurguelennoc-507687?style=for-the-badge)](https://www.linkedin.com/in/arthur-guelennoc)  
   
 </div>
-
-Let's build something awesome together 🚀
