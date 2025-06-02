@@ -10,8 +10,6 @@
 - 💬 Let’s talk about AI assistants, model distillation, or open-source tools!
 - 📫 Reach me: [email me](mailto:arthur.guelennoc@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/arthurguelennoc/).
 
----
-
 ## 🧠 Stats & Activity
 
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540AntitheticalElysium">
@@ -25,15 +23,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
----
 
 ## 🐍 Contribution Snake
 
