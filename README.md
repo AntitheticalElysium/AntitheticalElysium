@@ -2,8 +2,6 @@
 > AI & NLP | MSc Computer Science @ EPITA | Ex-Cisco
 
 <br />
-<br />
-<br />
 
 - 🤖 I'm currently working on multi-agent governance, fine-tuning LLMs, and hybrid neuro-symbolic systems.
 - 🌌 I’m passionate about AI for space exploration — check out my project on exoplanet habitability!
@@ -11,6 +9,10 @@
 - 📚 I’m always learning — recent focus: reinforcement learning, federated learning, and constraint programming.
 - 💬 Let’s talk about AI assistants, model distillation, or open-source tools!
 - 📫 Reach me: [email me](mailto:arthur.guelennoc@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/arthurguelennoc/).
+
+<br />
+<br />
+<br />
 
 ## 🧠 Stats & Activity
 
