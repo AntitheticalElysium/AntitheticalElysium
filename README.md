@@ -26,5 +26,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/arthurguelennoc/arthurguelennoc/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AntitheticalElysium/AntitheticalElysium/output/github-snake-dark.svg?palette=github-dark" alt="GitHub Snake dark mode" />
 </p>
