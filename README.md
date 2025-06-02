@@ -1,4 +1,4 @@
-## Arthur Guelennoc
+## 👋 Hi, I'm Arthur Guelennoc!
 > AI & NLP | MSc Computer Science @ EPITA | Ex-Cisco 
 
 ---
