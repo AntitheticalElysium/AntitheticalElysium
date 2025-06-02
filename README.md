@@ -3,8 +3,6 @@
 
 <br />
 
-<br />
-
 - 🤖 I'm currently working on multi-agent governance, fine-tuning LLMs, and hybrid neuro-symbolic systems.
 - 🌌 I’m passionate about AI for space exploration — check out my project on exoplanet habitability!
 - 🛠 I enjoy building compilers, shells, and transformer-based models from scratch.
