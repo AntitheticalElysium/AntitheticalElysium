@@ -21,6 +21,7 @@ I'm currently pursuing a **Master of Science in Computer Science** at **EPITA**,
 
 ## 📚 Libraries & Frameworks
 
+<div align="left">
 
 ![LangChain](https://img.shields.io/badge/LangChain-1a3b3b?&logo=LangChain&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-f89a36?&logo=scikit-learn&logoColor=white)  
