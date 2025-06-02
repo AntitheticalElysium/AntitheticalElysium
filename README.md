@@ -3,11 +3,10 @@
 
 <br />
 
-- 🤖 I'm currently working on multi-agent governance, fine-tuning LLMs, and hybrid neuro-symbolic systems.
+- 🤖 I'm currently working on multi-agent governance and SNNs.
 - 🌌 I’m passionate about AI for space exploration — check out my project on exoplanet habitability!
-- 🛠 I enjoy building compilers, shells, and transformer-based models from scratch.
-- 📚 I’m always learning — recent focus: reinforcement learning, federated learning, and constraint programming.
-- 💬 Let’s talk about AI assistants, model distillation, or open-source tools!
+- 🛠 I enjoy building things from scratch; compilers, shells, neural networks — you name it. 
+- 📚 I’m always learning — recent focus: reinforcement learning for hostile environment exploration.
 - 📫 Reach me: [email me](mailto:arthur.guelennoc@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/arthurguelennoc/).
 
 <br />
