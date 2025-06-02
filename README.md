@@ -9,6 +9,13 @@
 - 📫 Reach me: [email me](mailto:arthur.guelennoc@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/arthurguelennoc/).
 <br />
 
+## 📦 Libraries & Frameworks  
+![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?&logo=PyTorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-f8c039?&logo=TensorFlow&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f89a36?&logo=Scikit-Learn&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-1a3b3b?&logo=LangChain&logoColor=white)  
+![Numpy](https://img.shields.io/badge/-Numpy-4d77cf?&logo=Numpy&logoColor=white)****
+
 ## 🧠 Stats & Activity
 
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540AntitheticalElysium">
