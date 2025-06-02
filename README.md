@@ -14,11 +14,11 @@
 
 ## 🧠 Stats & Activity
 
-<a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540arthurguelennoc">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurguelennoc&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" />
+<a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540AntitheticalElysium">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntitheticalElysium&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" />
 </a>
-<a href="https://coderstats.github.io/github/#arthurguelennoc">
-  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=arthurguelennoc&show_icons=true&count_private=true" />
+<a href="https://coderstats.github.io/github/#AntitheticalElysium">
+  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=AntitheticalElysium&show_icons=true&count_private=true" />
 </a>
 
 <br clear="both" />
