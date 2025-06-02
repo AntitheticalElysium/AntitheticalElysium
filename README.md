@@ -1,9 +1,7 @@
-# Arthur Guelennoc
+## Arthur Guelennoc
 > AI & NLP | MSc Computer Science @ EPITA | Ex-Cisco 
 
 ---
-
-## 👋 Hello, I'm Arthur!
 
 - 🤖 I'm currently working on multi-agent governance, fine-tuning LLMs, and hybrid neuro-symbolic systems.
 - 🌌 I’m passionate about AI for space exploration — check out my project on exoplanet habitability!
