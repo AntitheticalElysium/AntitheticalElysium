@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Arthur Guelennoc!
 > AI & NLP | MSc Computer Science @ EPITA | Ex-Cisco
-
 <br />
 
 - 🤖 I'm currently working on multi-agent governance and SNNs.
@@ -8,7 +7,6 @@
 - 🛠 I enjoy building things from scratch; compilers, shells, neural networks — you name it. 
 - 📚 I’m always learning — recent focus: reinforcement learning for hostile environment exploration.
 - 📫 Reach me: [email me](mailto:arthur.guelennoc@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/arthurguelennoc/).
-
 <br />
 
 ## 🧠 Stats & Activity
@@ -19,7 +17,7 @@
 <a href="https://coderstats.github.io/github/#AntitheticalElysium">
   <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=AntitheticalElysium&show_icons=true&count_private=true" />
 </a>
-
+<br clear="both" />
 <br />
 
 ## 🐍 Contribution Snake
