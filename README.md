@@ -20,7 +20,6 @@
   <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=AntitheticalElysium&show_icons=true&count_private=true" />
 </a>
 
-<br clear="both" />
 <br />
 
 ## 🐍 Contribution Snake
