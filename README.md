@@ -11,8 +11,6 @@
 - 📫 Reach me: [email me](mailto:arthur.guelennoc@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/arthurguelennoc/).
 
 <br />
-<br />
-<br />
 
 ## 🧠 Stats & Activity
 
@@ -24,8 +22,6 @@
 </a>
 
 <br clear="both" />
-<br />
-<br />
 <br />
 
 ## 🐍 Contribution Snake
