@@ -21,7 +21,6 @@ I'm currently pursuing a **Master of Science in Computer Science** at **EPITA**,
 
 ## 📚 Libraries & Frameworks
 
-<div align="left">
 
 ![LangChain](https://img.shields.io/badge/LangChain-1a3b3b?&logo=LangChain&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-f89a36?&logo=scikit-learn&logoColor=white)  
@@ -34,15 +33,6 @@ I'm currently pursuing a **Master of Science in Computer Science** at **EPITA**,
 ---
 
 ## 📬 Get in Touch
-
-<div align="left">
-
-[![Email](https://img.shields.io/badge/Email-aguelennoc@gmail.com-B8001F?style=for-the-badge)](mailto:aguelennoc@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurguelennoc-507687?style=for-the-badge)](https://www.linkedin.com/in/arthur-guelennoc)  
-
-</div>
-
-## Get in Touch
 
 <div align="left">
 
