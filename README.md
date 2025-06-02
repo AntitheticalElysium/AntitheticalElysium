@@ -4,7 +4,7 @@ I'm currently pursuing a **Master of Science in Computer Science** at **EPITA**,
 
 ---
 
-## Programming Languages
+## 🛠️ Programming Languages
 
 <div align="left">
 
@@ -19,7 +19,7 @@ I'm currently pursuing a **Master of Science in Computer Science** at **EPITA**,
 
 ---
 
-## Libraries & Frameworks
+## 📚 Libraries & Frameworks
 
 <div align="left">
 
@@ -32,6 +32,15 @@ I'm currently pursuing a **Master of Science in Computer Science** at **EPITA**,
 </div>
 
 ---
+
+## 📬 Get in Touch
+
+<div align="left">
+
+[![Email](https://img.shields.io/badge/Email-aguelennoc@gmail.com-B8001F?style=for-the-badge)](mailto:aguelennoc@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurguelennoc-507687?style=for-the-badge)](https://www.linkedin.com/in/arthur-guelennoc)  
+
+</div>
 
 ## Get in Touch
 
