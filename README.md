@@ -3,9 +3,9 @@
 <br />
 
 - 🤖 I'm currently working on multi-agent governance and SNNs.
-- 🌌 I’m passionate about AI for space exploration — check out my project on exoplanet habitability!
-- 🛠 I enjoy building things from scratch; compilers, shells, neural networks — you name it. 
-- 📚 I’m always learning — recent focus: reinforcement learning for hostile environment exploration.
+- 🌌 I’m passionate about AI for space exploration- check out my project on exoplanet habitability!
+- 🛠 I enjoy building things from scratch; compilers, shells, neural networks... 
+- 📚 I’m always learning- recent focus: reinforcement learning for hostile environment exploration.
 - 📫 Reach me: [email me](mailto:arthur.guelennoc@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/arthur-guelennoc/).
   
 ## 📦 Libraries & Frameworks  
