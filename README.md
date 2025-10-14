@@ -34,10 +34,12 @@ I build things from first principles. Currently exploring SNNs, shoot me a messa
 ---
 
 ### 🧠 Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntitheticalElysium&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AntitheticalElysium&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntitheticalElysium&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" alt="Top languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AntitheticalElysium&show_icons=true&count_private=true" alt="GitHub Stats" /></td>
+  </tr>
+</table>
 
 ---
 
