@@ -9,7 +9,7 @@ I build things from first principles. Currently exploring SNNs, shoot me a messa
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Mamba Reimplementation**](https://github.com/AntitheticalElysium/Mamba) | From-scratch reimplementation of the *Mamba* paper, exploring state-space model efficiency. | Python, PyTorch |
+| [**Mamba Reimplementation**](https://github.com/AntitheticalElysium/Selective-SSM) | From-scratch reimplementation of the *Mamba* paper, exploring state-space model efficiency. | Python, PyTorch |
 | [**Encoder-Decoder Translator**](https://github.com/AntitheticalElysium/Encoder-Decoder) | Bidirectional GRU Encoder-Decoder translator built from scratch in CuPy. | Python, CuPy |
 | [**KD4Exo**](https://github.com/AntitheticalElysium/KD4Exo) | Predicts exoplanet habitability using knowledge distillation (99.98% accuracy, 99% reduction in training time). | Python, CUDA |
 | [**Tiger Compiler**](https://github.com/AntitheticalElysium/Tiger-Compiler) | Full compiler pipeline (lexer, parser, semantic analysis, LLVM backend). | C++, LLVM |
