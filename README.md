@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Arthur Guelennoc
 **AI & Systems Engineer | MSc Computer Science @ EPITA | Ex-Cisco | AWS/Azure Certified**
 
-Currently benchmarking A2A communication on SWE-Bench Pro with subagents and exploring SNNs, shoot me a message if you're interested as well :)
+Currently benchmarking A2A communication on SWE-Bench Pro with subagents (check out [pMCP](https://github.com/AntitheticalElysium/pMCP)!) and exploring SNNs, shoot me a message if you're interested as well :)
 
 ---
 
