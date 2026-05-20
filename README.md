@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Arthur Guelennoc
 **AI & Systems Engineer | MSc Computer Science @ EPITA | Ex-Cisco | AWS/Azure Certified**
 
-I build things from first principles. Currently exploring SNNs, shoot me a message if you're interested as well :)
+Currently benchmarking A2A communication on SWE-Bench Pro with subagents and exploring SNNs, shoot me a message if you're interested as well :)
 
 ---
 
-### 🪐 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -17,7 +17,7 @@ I build things from first principles. Currently exploring SNNs, shoot me a messa
 
 ---
 
-### ☁️ Tools & Technologies
+### Tools & Technologies
 
 **Languages:** Python, C, C++, C#, Java, JavaScript, Assembly  
 **AI & Data:** PyTorch, TensorFlow, LangChain, Scikit-Learn, Hugging Face, CUDA  
@@ -26,14 +26,14 @@ I build things from first principles. Currently exploring SNNs, shoot me a messa
 
 ---
 
-### 🌍 Connect
+### Connect
 
-- 🌌 Passionate about **AI for space exploration** — check out KD4Exo above  
-- 📫 [Email me](mailto:arthur.guelennoc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arthur-guelennoc)
+- I'm passionate about **AI for space exploration** — check out KD4Exo above  
+- [Email me](mailto:arthur.guelennoc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arthur-guelennoc)
 
 ---
 
-### 🧠 Stats & Activity
+### Stats & Activity
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntitheticalElysium&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" alt="Top languages" /></td>
