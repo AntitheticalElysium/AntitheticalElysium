@@ -9,6 +9,7 @@ Currently benchmarking A2A communication on SWE-Bench Pro with subagents (check 
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Dreamer4-Mamba-JEPA**](https://github.com/AntitheticalElysium/Dreamer4-Mamba-JEPA) | Training agents inside of scalable world models. | Python, CUDA |
 | [**ThreeBody-JEPA**](https://github.com/AntitheticalElysium/ThreeBody-JEPA) | Benchmarking world models (JEPA) on their extrapolation of chaotic three-body dynamics. | Python, PyTorch |
 | [**Mamba Reimplementation**](https://github.com/AntitheticalElysium/Selective-SSM) | From-scratch reimplementation of the *Mamba* paper, exploring state-space model efficiency. | Python, PyTorch |
 | [**Encoder-Decoder Translator**](https://github.com/AntitheticalElysium/Encoder-Decoder) | Bidirectional GRU Encoder-Decoder translator built from scratch in CuPy. | Python, CuPy |
