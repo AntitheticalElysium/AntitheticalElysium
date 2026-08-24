@@ -2,8 +2,10 @@
 **AI SWE @ Arista Networks | AI/ML @ EPITA | Ex-Cisco | AWS/Azure Certified**
 
 Current work: Agents & world models + state space architectures (with [**Dreamer4-Mamba-JEPA**](https://github.com/AntitheticalElysium/Dreamer4-Mamba-JEPA) )
+
 On-hold: A2A communication, benchmarking RAG methods, SNNs for edge-neural networks, and lots more I need to get back to once the above is finished! 
-Shoot me a message if any of this sounds interesting, I'd love to talk more 
+
+Shoot me a message if any of this sounds interesting, I'd love to talk more :) 
 
 ---
 
