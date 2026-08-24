@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Arthur Guelennoc
-**SWE @ Arista Networks | AI/ML @ EPITA | Ex-Cisco | AWS/Azure Certified**
+**AI SWE @ Arista Networks | AI/ML @ EPITA | Ex-Cisco | AWS/Azure Certified**
 
-Currently benchmarking A2A communication on SWE-Bench Pro with subagents (check out [pMCP](https://github.com/AntitheticalElysium/pMCP)!) and exploring SNNs, shoot me a message if you're interested as well :)
+Current work: Agents & world models + state space architectures (with [**Dreamer4-Mamba-JEPA**](https://github.com/AntitheticalElysium/Dreamer4-Mamba-JEPA) )
+On-hold: A2A communication, benchmarking RAG methods, SNNs for edge-neural networks, and lots more I need to get back to once the above is finished! 
+Shoot me a message if any of this sounds interesting, I'd love to talk more 
 
 ---
 
